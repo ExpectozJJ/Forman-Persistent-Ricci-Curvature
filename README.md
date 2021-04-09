@@ -1,4 +1,4 @@
-# Persistent-Forman-Ricci-Curvature
+# Forman-Persistent-Ricci-Curvature
 
 Applications of Forman Ricci Curvature for Biomolecular Data Analysis
 
